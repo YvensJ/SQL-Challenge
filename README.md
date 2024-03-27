@@ -1,5 +1,3 @@
 # Sql-challenge
 
-Attached is the file Table_Schemata containing the codes for creating and linking the Tables/CSV files.
-Attached is the file Queries containing the questions and codes answering the presented queries.
-File DBD_Image contains the diagram used to visualize the relationship between the different CSV/Tables.
+For this project, I designed database tables to accommodate data from CSV files, imported the files into a SQL database, and then conducted data analysis. This involved data modeling, engineering, and analysis to ensure efficient storage, integrity, and insights from the data.
